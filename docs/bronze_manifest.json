@@ -1,0 +1,33 @@
+{
+  "fichier": "data\\bronze\\311\\311_requests.csv",
+  "date_manifeste": "2026-11-02T16:03:46",
+  "taille_go": 6.311,
+  "sha256": "49f0ba4b970e189818f43be4bbd32389d1b3ba23240abf7f5d6958647994ff74",
+  "nb_colonnes": 24,
+  "entete": [
+    "id",
+    "click",
+    "hour",
+    "C1",
+    "banner_pos",
+    "site_id",
+    "site_domain",
+    "site_category",
+    "app_id",
+    "app_domain",
+    "app_category",
+    "device_id",
+    "device_ip",
+    "device_model",
+    "device_type",
+    "device_conn_type",
+    "C14",
+    "C15",
+    "C16",
+    "C17",
+    "C18",
+    "C19",
+    "C20",
+    "C21"
+  ]
+}
